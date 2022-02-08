@@ -1,7 +1,15 @@
-import * as React from "react";
-import { render } from "react-dom";
-import App from "./components/App";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+require("regenerator-runtime/runtime");
 
-const rootEl = document.getElementById("root");
 
-render(<App />, rootEl);
+
+
+console.error('HELLO BITCHES ITS ME BEBRA');
+
+const mount = document.createElement('div')
+document.body.appendChild(
+  mount
+)
+ReactDOM.render(<App />, mount);

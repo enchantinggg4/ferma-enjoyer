@@ -1,0 +1,21 @@
+export const indexMap: any = {
+  'огурец': 'cucumber',
+  'пшеница': 'wheat',
+  'укроп': 'dill',
+  'морковь': 'carrot',
+  'колокольчик': 'bluebell',
+  'лук': 'onion',
+  'ромашка': 'camomile',
+  'ландыш': 'may-lily',
+  'георгин': 'dahlia',
+  'чеснок': 'garlic',
+  'картофель': 'potato',
+  'редис': 'radish',
+  'петрушка': 'parsley',
+  'сосна': 'pine',
+  'чайная роза': 'white_rose',
+  'орхидея': 'orchid',
+  'щавель': 'sorrel',
+  'кукуруза': 'corn',
+
+}
